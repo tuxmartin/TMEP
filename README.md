@@ -26,3 +26,6 @@ Read tmep-info-en.html or tmep-info-cz.html for more information.
   * Version 4.0 released at 2011-03-10
   * Version 4.0 rc1 added at 2011-02-12 - now for both TME and TH2E
   * Version 3.0 added at 2011-01-14
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tuxmartin/tmep/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
